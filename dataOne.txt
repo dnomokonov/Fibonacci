@@ -1,0 +1,5 @@
+15 apple
+8 banana
+30 peach
+72 guava
+38 kiwi

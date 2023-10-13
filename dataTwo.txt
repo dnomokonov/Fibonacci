@@ -1,0 +1,5 @@
+20 mango
+32 pineapple
+5 lemon
+27 pomegranate
+55 watermelon
